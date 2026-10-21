@@ -1,0 +1,81 @@
+
+body {
+    background-color: #eee;
+    font-family: Arial;
+    color: #333;
+    margin: 0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+h1 {
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: turquoise;
+}
+
+header p {
+    color: white !important;
+}
+
+main {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+}
+
+section {
+    position: relative;
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid rgb(180, 212, 209);
+}
+
+h3 {
+    color: teal;
+    border-bottom: 2px solid turquoise;
+}
+
+.lista {
+    color: teal;
+}
+
+.habolidades {
+    background-color: #eee;
+    position: relative;
+    margin: 10px 0;
+    border-left: 3px solid turquoise;
+    border-right: 3px solid turquoise;
+    padding: 10px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input {
+    padding: 8px;
+    margin-bottom: 15px;
+}
+
+a {
+    display: inline-block;
+    background-color: turquoise;
+    color: black;
+    padding: 10px;
+    text-decoration: none;
+}
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
